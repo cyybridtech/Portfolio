@@ -1,12 +1,9 @@
-"use client";
-
-import React from "react";
 import { motion } from "framer-motion";
 import { ArrowRight, Code, Cpu, Globe } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center pt-20 overflow-hidden">
+    <section className="relative min-h-screen flex items-center justify-center pt-20 overflow-hidden bg-[#0a0a0a] text-white">
       {/* Background Decorative Elements */}
       <div className="absolute top-1/4 left-1/4 w-64 h-64 bg-blue-600/10 blur-[120px] rounded-full" />
       <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-purple-600/10 blur-[120px] rounded-full" />
@@ -17,14 +14,14 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          <span className="px-4 py-2 rounded-full glass text-xs font-semibold tracking-widest uppercase mb-8 inline-block text-blue-400">
-            Pioneering Digital Excellence
+          <span className="px-4 py-2 rounded-full bg-white/5 border border-white/10 text-xs font-semibold tracking-widest uppercase mb-8 inline-block text-blue-400">
+            PONTEM AD FUTURA
           </span>
           <h1 className="text-5xl md:text-8xl font-bold tracking-tight mb-8 leading-tight">
-            We build <span className="text-gradient">high-performance</span> digital experiences.
+            Building <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-white to-white/50">bridges</span> to the future.
           </h1>
           <p className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto mb-10">
-            A specialized team of engineers and designers crafting scalable software solutions for modern enterprises.
+            Lead by <span className="text-white font-semibold">Redoff Oppong Agyemang</span>, CYYBRID TECHNOLOGY is a specialized team crafting scalable software solutions for the modern world.
           </p>
         </motion.div>
 
@@ -34,11 +31,11 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-4"
         >
-          <button className="px-8 py-4 rounded-full bg-blue-600 hover:bg-blue-700 transition-all font-semibold flex items-center group">
+          <button className="px-8 py-4 rounded-full bg-blue-600 hover:bg-blue-700 transition-all font-semibold flex items-center group text-white">
             Start a Project
             <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={20} />
           </button>
-          <button className="px-8 py-4 rounded-full glass hover:bg-white/5 transition-all font-semibold">
+          <button className="px-8 py-4 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 transition-all font-semibold text-white">
             View Our Work
           </button>
         </motion.div>
@@ -63,7 +60,7 @@ const Hero = () => {
           </div>
           <div className="flex flex-col items-center">
             <Globe size={32} className="mb-4" />
-            <span className="text-sm font-medium">Mobile Development</span>
+            <span className="text-sm font-medium">Digital Innovation</span>
           </div>
         </motion.div>
       </div>

@@ -1,18 +1,15 @@
-"use client";
-
-import React from "react";
 import { Github, Linkedin, Twitter } from "lucide-react";
 
 const Footer = () => {
   return (
-    <footer className="py-12 px-6 border-t border-white/5">
+    <footer className="py-12 px-6 border-t border-white/5 text-white bg-[#0a0a0a]">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8">
         <div>
           <div className="text-xl font-bold tracking-tighter mb-2">
-            DEV<span className="text-blue-500">TEAM</span>
+            CYYBRID <span className="text-blue-500">TECHNOLOGY</span>
           </div>
           <p className="text-zinc-500 text-sm max-w-xs">
-            © 2024 DevTeam Engineering. Building high-performance digital solutions for the next generation of business.
+            © 2024 CYYBRID TECHNOLOGY. Building bridges to the future.
           </p>
         </div>
 

@@ -1,14 +1,11 @@
-"use client";
-
-import React from "react";
 import { motion } from "framer-motion";
 import { Github, Linkedin, Twitter } from "lucide-react";
 
-const team = [
+const teamMembers = [
   {
-    name: "Alex Rivers",
-    role: "Lead Architect",
-    bio: "Ex-Google engineer with a passion for scalable systems.",
+    name: "Redoff Oppong Agyemang",
+    role: "Lead Engineer & Founder",
+    bio: "Visionary leader architecting the future of software solutions.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
   },
   {
@@ -19,25 +16,25 @@ const team = [
   },
   {
     name: "Marcus Thorne",
-    role: "Backend Lead",
-    bio: "Security specialist and distributed systems expert.",
+    role: "Backend Specialist",
+    bio: "Distributed systems expert focusing on scalability.",
     image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=400",
   },
 ];
 
 const Team = () => {
   return (
-    <section id="team" className="py-24 px-6 bg-black/30">
+    <section id="team" className="py-24 px-6 bg-black/30 text-white">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">Meet the Team</h2>
           <p className="text-zinc-400 max-w-2xl mx-auto">
-            A small team of dedicated professionals committed to building the future of software.
+            A dedicated collective of professionals committed to digital excellence under CYYBRID TECHNOLOGY.
           </p>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12">
-          {team.map((member, index) => (
+          {teamMembers.map((member, index) => (
             <motion.div
               key={member.name}
               initial={{ opacity: 0, y: 20 }}

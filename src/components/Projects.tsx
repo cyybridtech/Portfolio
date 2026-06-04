@@ -1,6 +1,3 @@
-"use client";
-
-import React from "react";
 import { motion } from "framer-motion";
 import { ExternalLink, Github } from "lucide-react";
 
@@ -27,7 +24,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="py-24 px-6">
+    <section id="projects" className="py-24 px-6 text-white">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
           <div>
@@ -51,7 +48,7 @@ const Projects = () => {
               transition={{ delay: index * 0.1 }}
               className="group"
             >
-              <div className="relative aspect-[4/3] rounded-3xl overflow-hidden mb-6 glass">
+              <div className="relative aspect-[4/3] rounded-3xl overflow-hidden mb-6 bg-white/5 border border-white/10">
                 <img
                   src={project.image}
                   alt={project.title}

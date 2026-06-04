@@ -7,9 +7,9 @@ import Team from "@/components/Team";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
-export default function Home() {
+function App() {
   return (
-    <main className="min-h-screen">
+    <div className="min-h-screen bg-[#0a0a0a]">
       <Navbar />
       <Hero />
       <About />
@@ -18,6 +18,8 @@ export default function Home() {
       <Team />
       <Contact />
       <Footer />
-    </main>
+    </div>
   );
 }
+
+export default App;
