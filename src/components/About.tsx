@@ -10,24 +10,24 @@ const About = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-4xl font-bold mb-8">PONTEM AD FUTURA</h2>
+          <h2 className="text-4xl font-bold mb-8">About Me</h2>
           <div className="space-y-6 text-zinc-400 leading-relaxed text-lg">
             <p>
-              At CYYBRID TECHNOLOGY, our slogan isn&apos;t just words; it&apos;s our mission. We build the &quot;bridges to the future&quot; by leveraging cutting-edge technology to solve the challenges of tomorrow.
+              I am a Computer Science student with a deep interest in Human-Computer Interaction (HCI) and Full-Stack Development. My goal is to build software that isn&apos;t just functional, but truly intuitive for the Ghanaian user.
             </p>
             <p>
-              Founded and led by Redoff Oppong Agyemang, our team specializes in architecting high-performance systems that are scalable, secure, and intuitive. We believe in the power of digital transformation to bridge gaps and create new opportunities.
+              Whether it&apos;s working on a project like &quot;ShuttleSense&quot; to optimize campus commuting or exploring new ways for elderly users to document their lineage, I am always looking for the &quot;human&quot; side of technology. I am currently seeking an internship to apply my skills in a professional, fast-paced environment.
             </p>
           </div>
 
           <div className="grid grid-cols-2 gap-8 mt-12">
             <div>
-              <h4 className="text-3xl font-bold text-blue-500 mb-2">Ghana</h4>
-              <p className="text-sm text-zinc-500 font-medium">Based in</p>
+              <h4 className="text-3xl font-bold text-blue-500 mb-2">3rd Year</h4>
+              <p className="text-sm text-zinc-500 font-medium">CS Student</p>
             </div>
             <div>
-              <h4 className="text-3xl font-bold text-blue-500 mb-2">Global</h4>
-              <p className="text-sm text-zinc-500 font-medium">Impact</p>
+              <h4 className="text-3xl font-bold text-blue-500 mb-2">10+</h4>
+              <p className="text-sm text-zinc-500 font-medium">Academic Projects</p>
             </div>
           </div>
         </motion.div>
@@ -43,7 +43,7 @@ const About = () => {
             <div className="w-full h-full rounded-2xl bg-gradient-to-br from-blue-600/20 to-purple-600/20 flex items-center justify-center">
               <div className="text-center p-8">
                 <p className="text-2xl font-serif italic text-white/80">
-                  &quot;Excellence is the standard. Innovation is the path. Building bridges is the goal.&quot;
+                  &quot;The best software solves a problem you didn&apos;t even know you had, in a way that feels like it was always there.&quot;
                 </p>
               </div>
             </div>

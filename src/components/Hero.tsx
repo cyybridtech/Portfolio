@@ -15,13 +15,13 @@ const Hero = () => {
           transition={{ duration: 0.5 }}
         >
           <span className="px-4 py-2 rounded-full bg-white/5 border border-white/10 text-xs font-semibold tracking-widest uppercase mb-8 inline-block text-blue-400">
-            PONTEM AD FUTURA
+            COMPUTER SCIENCE STUDENT & ASPIRING ENGINEER
           </span>
           <h1 className="text-5xl md:text-8xl font-bold tracking-tight mb-8 leading-tight">
-            Building <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-white to-white/50">bridges</span> to the future.
+            Building the <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-white to-white/50">digital future</span> of Africa.
           </h1>
           <p className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto mb-10">
-            Lead by <span className="text-white font-semibold">Redoff Oppong Agyemang</span>, CYYBRID TECHNOLOGY is a specialized team crafting scalable software solutions for the modern world.
+            I am <span className="text-white font-semibold">Redoff Oppong Agyemang</span>. A passionate developer focused on creating innovative software solutions that solve real-world Ghanaian problems.
           </p>
         </motion.div>
 
@@ -31,13 +31,13 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-4"
         >
-          <button className="px-8 py-4 rounded-full bg-blue-600 hover:bg-blue-700 transition-all font-semibold flex items-center group text-white">
-            Start a Project
+          <a href="#projects" className="px-8 py-4 rounded-full bg-blue-600 hover:bg-blue-700 transition-all font-semibold flex items-center group text-white">
+            View My Projects
             <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={20} />
-          </button>
-          <button className="px-8 py-4 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 transition-all font-semibold text-white">
-            View Our Work
-          </button>
+          </a>
+          <a href="#contact" className="px-8 py-4 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 transition-all font-semibold text-white">
+            Hire Me for Internship
+          </a>
         </motion.div>
 
         <motion.div
@@ -48,19 +48,19 @@ const Hero = () => {
         >
           <div className="flex flex-col items-center">
             <Globe size={32} className="mb-4" />
-            <span className="text-sm font-medium">Scalable Web Apps</span>
+            <span className="text-sm font-medium">Full-Stack Development</span>
           </div>
           <div className="flex flex-col items-center">
             <Cpu size={32} className="mb-4" />
-            <span className="text-sm font-medium">Cloud Infrastructure</span>
+            <span className="text-sm font-medium">System Architecture</span>
           </div>
           <div className="flex flex-col items-center">
             <Code size={32} className="mb-4" />
-            <span className="text-sm font-medium">Custom Engineering</span>
+            <span className="text-sm font-medium">UI/UX Design</span>
           </div>
           <div className="flex flex-col items-center">
             <Globe size={32} className="mb-4" />
-            <span className="text-sm font-medium">Digital Innovation</span>
+            <span className="text-sm font-medium">Problem Solving</span>
           </div>
         </motion.div>
       </div>

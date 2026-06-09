@@ -19,7 +19,7 @@ const Navbar = () => {
     { name: "About", href: "#about" },
     { name: "Skills", href: "#skills" },
     { name: "Projects", href: "#projects" },
-    { name: "Team", href: "#team" },
+    { name: "Resume", href: "/resume.pdf" },
     { name: "Contact", href: "#contact" },
   ];
 
@@ -36,7 +36,7 @@ const Navbar = () => {
           animate={{ opacity: 1, x: 0 }}
           className="text-2xl font-bold tracking-tighter text-white"
         >
-          CYYBRID <span className="text-blue-500">TECHNOLOGY</span>
+          REDOFF<span className="text-blue-500">.DEV</span>
         </motion.div>
 
         {/* Desktop Menu */}
@@ -53,13 +53,14 @@ const Navbar = () => {
               {link.name}
             </motion.a>
           ))}
-          <motion.button
+          <motion.a
+            href="#contact"
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             className="px-5 py-2 rounded-full bg-blue-600 hover:bg-blue-700 transition-colors text-sm font-medium text-white"
           >
-            Hire Us
-          </motion.button>
+            Hire Me
+          </motion.a>
         </div>
 
         {/* Mobile Menu Button */}
@@ -90,9 +91,9 @@ const Navbar = () => {
               {link.name}
             </a>
           ))}
-          <button className="w-full py-3 rounded-xl bg-blue-600 text-white font-medium">
-            Hire Us
-          </button>
+          <a href="#contact" className="w-full py-3 rounded-xl bg-blue-600 text-center text-white font-medium">
+            Hire Me
+          </a>
         </motion.div>
       )}
     </nav>
