@@ -3,34 +3,34 @@ import { Database, Layout, Server, Shield, Smartphone, Zap } from "lucide-react"
 
 const skills = [
   {
-    category: "Frontend",
+    category: "Web & Frontend",
     icon: <Layout className="text-blue-500" size={24} />,
-    items: ["React / Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    items: ["React / Next.js", "TypeScript", "Tailwind CSS", "Vite & Framer Motion"],
   },
   {
-    category: "Backend",
+    category: "Backend & Systems",
     icon: <Server className="text-purple-500" size={24} />,
-    items: ["Node.js", "Go", "Python", "GraphQL"],
+    items: ["Node.js & Express", "RESTful APIs", "Git & GitHub", "Postman Testing"],
   },
   {
-    category: "Infrastructure",
-    icon: <Zap className="text-yellow-500" size={24} />,
-    items: ["AWS / GCP", "Docker", "Kubernetes", "CI/CD"],
-  },
-  {
-    category: "Database",
+    category: "Database Management",
     icon: <Database className="text-green-500" size={24} />,
-    items: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
+    items: ["SQL & Database Design", "PostgreSQL", "Data Persistence", "Schema Modeling"],
   },
   {
-    category: "Mobile",
+    category: "HCI & UI/UX Design",
     icon: <Smartphone className="text-pink-500" size={24} />,
-    items: ["React Native", "Flutter", "Swift", "Kotlin"],
+    items: ["Human-Computer Interaction", "User-Centered Design", "Figma Design", "Responsive Layouts"],
   },
   {
-    category: "Security",
+    category: "Software Engineering",
     icon: <Shield className="text-red-500" size={24} />,
-    items: ["OAuth 2.0", "Encryption", "Security Audits", "Pen-testing"],
+    items: ["Systems Analysis", "Data Structures", "OOP Principles", "Software Architecture"],
+  },
+  {
+    category: "Production Solutions",
+    icon: <Zap className="text-yellow-500" size={24} />,
+    items: ["Hostel Booking Systems", "Retail POS Platforms", "Apparel E-Commerce", "Vercel Deployment"],
   },
 ];
 
@@ -39,9 +39,9 @@ const Skills = () => {
     <section id="skills" className="py-24 px-6 bg-black/30 text-white">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold mb-4">Our Expertise</h2>
+          <h2 className="text-4xl font-bold mb-4">Technical Skills & Expertise</h2>
           <p className="text-zinc-400 max-w-2xl mx-auto">
-            We leverage a modern stack to build robust and scalable applications that stand the test of time.
+            Core competencies cultivated through Information Technology Education at AAMUSTED and production engineering at CYYBRID Technology.
           </p>
         </div>
 

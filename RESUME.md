@@ -1,53 +1,60 @@
 # REDOFF OPPONG AGYEMANG
-**Aspiring Software Engineer**
+**Founder & CEO at CYYBRID Technology**
 📍 Ghana | 📞 0533143634
 ✉️ cyybridtechnnology@gmail.com
-🔗 [Portfolio: redoff.dev] | 🐙 [GitHub: github.com/redoff]
+🔗 [Portfolio: redoff.dev] | 🐙 [GitHub: github.com/redoff] | 🌐 [UniHive: myunihive.com](https://myunihive.com)
 
 ---
 
 ### PROFESSIONAL SUMMARY
-Analytical and highly motivated **Computer Science Student** with a strong foundation in Full-Stack Development and Human-Computer Interaction (HCI). Proven ability to build modern web applications using **React, TypeScript, and Tailwind CSS**. Passionate about solving local Ghanaian challenges through innovative software architecture and user-centered design. Seeking an internship to contribute to high-impact projects and further develop professional engineering skills.
+Analytical and driven **Information Technology Education Student** at the **University of Skills Training and Entrepreneurial Development (AAMUSTED)** (2024 – 2027). Founder and CEO at **CYYBRID Technology** (Est. 2025). Proven track record of architecting and deploying production web and mobile applications including **UniHive** (hostel booking platform), a Fintech application (HCI & Mobile App project), advanced Point-of-Sale (POS) systems, and apparel e-commerce platforms.
+
+---
+
+### CERTIFICATIONS & QUALIFICATIONS
+*   **Systems Analysis & Design Certification**
+*   **SQL Intermediate Certification**
+*   **Introduction to Scratch Programming Certification**
 
 ---
 
 ### TECHNICAL SKILLS
-*   **Frontend:** React.js, Vite, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Framer Motion, HTML5, CSS3.
-*   **Backend & Tools:** Node.js, Git/GitHub, RESTful APIs, Postman.
-*   **Design:** UI/UX Principles, Figma, Responsive Web Design.
-*   **Core CS:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management (SQL).
+*   **Web & Mobile Development:** React.js, Vite, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Framer Motion, HTML5, CSS3.
+*   **Backend & Databases:** Node.js, Express, RESTful APIs, SQL (Intermediate), Database Management, Schema Design.
+*   **Core CS & Systems:** Systems Analysis & Design, Programming, Software Engineering, Human-Computer Interaction (HCI), Mobile Application Development.
 
 ---
 
-### KEY PROJECTS
+### KEY PROJECTS & VENTURES
 
-#### CYYBRID Modern Portfolio Website | *React, TypeScript, Vite*
-*   Designed and deployed a "highly modern" personal portfolio to showcase technical proficiency.
-*   Implemented **Glassmorphism** UI and **Framer Motion** for smooth, high-end animations.
-*   Optimized site for 100% responsiveness across mobile and desktop devices.
+#### UniHive – Hostel Booking Platform | *Creator & Founder* | *2026* | [myunihive.com](https://myunihive.com)
+*   Architected and deployed a dedicated hostel booking platform connecting university students with verified accommodation across Ghana.
+*   Implemented search, filter, room booking workflows, and responsive UI for student users.
 
-#### ShuttleSense (HCI Academic Project) | *System Architecture & Design*
-*   Designed a proximity-based notification system for University shuttles to solve the "waiting time" problem.
-*   Focused on **Peripheral Awareness** (HCI) using haptic and ambient visual cues to reduce user cognitive load.
-*   Developed problem statements and user personas for over 10,000 potential student users.
+#### Fintech Application Project | *HCI & Mobile Application Course Project* | *July 2026*
+*   Designed and built an intuitive Fintech application applying Human-Computer Interaction (HCI) design principles and mobile application architecture.
+
+#### Advanced Retail POS System | *Developer & Architect*
+*   Engineered a Point of Sale system featuring real-time inventory tracking, sales analytics, and transaction reporting.
+
+#### Apparel E-Commerce Platform | *Full-Stack Developer*
+*   Designed and deployed an e-commerce web application for fashion apparel featuring dynamic product catalogs and checkout integration.
 
 ---
 
 ### EDUCATION
-**Bachelor of Science in Computer Science**
-*University of Ghana / KNUST / Ashesi*, Ghana
-*Expected Graduation: 2027*
-*   **Relevant Coursework:** Web Development, Human-Computer Interaction, Software Engineering, Systems Analysis.
+**Bachelor of Science in Information Technology Education**
+*University of Skills Training and Entrepreneurial Development (AAMUSTED)*, Ghana
+*2024 – 2027*
+*   **Relevant Coursework:** Programming, Database Management, Web Development, Human-Computer Interaction (HCI), Mobile Application Development, Software Engineering, Systems Analysis & Design.
 
 ---
 
-### LEADERSHIP & EXPERIENCE
-**Group Leader – HCI Research Project** | *Jan 2026 – Present*
-*   Coordinating a team of 5 to develop an "unimaginable but simple" digital solution for Ghanaian urban challenges.
-*   Managing project timelines and submission requirements for high-stakes academic deadlines.
+### WORK & LEADERSHIP EXPERIENCE
 
-**Member – Computer Science Society** | *2024 – Present*
-*   Participating in local hackathons and tech meetups to stay updated on the latest industry trends in the African tech ecosystem.
+**Founder & CEO** | *CYYBRID Technology*
+*2025 – Present*
+*   Directing technology vision, system architecture, client solutions, and application development under CYYBRID Technology.
 
 ---
 

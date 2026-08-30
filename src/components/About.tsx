@@ -13,21 +13,25 @@ const About = () => {
           <h2 className="text-4xl font-bold mb-8">About Me</h2>
           <div className="space-y-6 text-zinc-400 leading-relaxed text-lg">
             <p>
-              I am a Computer Science student with a deep interest in Human-Computer Interaction (HCI) and Full-Stack Development. My goal is to build software that isn&apos;t just functional, but truly intuitive for the Ghanaian user.
+              I am a Bachelor of Science in Information Technology Education student at the <span className="text-white font-semibold">University of Skills Training and Entrepreneurial Development (AAMUSTED)</span> (2024 – 2027). As the Founder & CEO of <span className="text-blue-400 font-semibold">CYYBRID Technology</span> (Est. 2025), I build software that bridges complex systems architecture with intuitive user design.
             </p>
             <p>
-              Whether it&apos;s working on a project like &quot;ShuttleSense&quot; to optimize campus commuting or exploring new ways for elderly users to document their lineage, I am always looking for the &quot;human&quot; side of technology. I am currently seeking an internship to apply my skills in a professional, fast-paced environment.
+              From creating <a href="https://myunihive.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline font-semibold">UniHive</a> (launched in 2026 as a dedicated hostel booking platform for university students across Ghana) to developing a Fintech application (HCI & Mobile App project in July 2026), advanced retail POS systems, and apparel e-commerce platforms, my focus is delivering high-impact software solutions.
             </p>
           </div>
 
-          <div className="grid grid-cols-2 gap-8 mt-12">
+          <div className="grid grid-cols-3 gap-6 mt-12">
             <div>
-              <h4 className="text-3xl font-bold text-blue-500 mb-2">3rd Year</h4>
-              <p className="text-sm text-zinc-500 font-medium">CS Student</p>
+              <h4 className="text-3xl font-bold text-blue-500 mb-2">2024–27</h4>
+              <p className="text-sm text-zinc-500 font-medium">BSc IT Education</p>
             </div>
             <div>
-              <h4 className="text-3xl font-bold text-blue-500 mb-2">10+</h4>
-              <p className="text-sm text-zinc-500 font-medium">Academic Projects</p>
+              <h4 className="text-3xl font-bold text-blue-500 mb-2">UniHive</h4>
+              <p className="text-sm text-zinc-500 font-medium">Hostel Platform</p>
+            </div>
+            <div>
+              <h4 className="text-3xl font-bold text-blue-500 mb-2">CEO</h4>
+              <p className="text-sm text-zinc-500 font-medium">CYYBRID Tech</p>
             </div>
           </div>
         </motion.div>

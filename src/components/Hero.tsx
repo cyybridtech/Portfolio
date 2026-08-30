@@ -15,13 +15,13 @@ const Hero = () => {
           transition={{ duration: 0.5 }}
         >
           <span className="px-4 py-2 rounded-full bg-white/5 border border-white/10 text-xs font-semibold tracking-widest uppercase mb-8 inline-block text-blue-400">
-            COMPUTER SCIENCE STUDENT & ASPIRING ENGINEER
+            IT EDUCATION STUDENT & FOUNDER AT CYYBRID TECHNOLOGY
           </span>
           <h1 className="text-5xl md:text-8xl font-bold tracking-tight mb-8 leading-tight">
             Building the <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-white to-white/50">digital future</span> of Africa.
           </h1>
           <p className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto mb-10">
-            I am <span className="text-white font-semibold">Redoff Oppong Agyemang</span>. A passionate developer focused on creating innovative software solutions that solve real-world Ghanaian problems.
+            I am <span className="text-white font-semibold">Redoff Oppong Agyemang</span>. Founder & CEO of <span className="text-blue-400 font-semibold">CYYBRID Technology</span> (Est. 2025), creator of <a href="https://myunihive.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline font-semibold">UniHive</a>, and an IT Education student at AAMUSTED.
           </p>
         </motion.div>
 
@@ -36,7 +36,7 @@ const Hero = () => {
             <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={20} />
           </a>
           <a href="#contact" className="px-8 py-4 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 transition-all font-semibold text-white">
-            Hire Me for Internship
+            Get In Touch
           </a>
         </motion.div>
 
@@ -48,7 +48,7 @@ const Hero = () => {
         >
           <div className="flex flex-col items-center">
             <Globe size={32} className="mb-4" />
-            <span className="text-sm font-medium">Full-Stack Development</span>
+            <span className="text-sm font-medium">Web & Systems Dev</span>
           </div>
           <div className="flex flex-col items-center">
             <Cpu size={32} className="mb-4" />
@@ -56,11 +56,11 @@ const Hero = () => {
           </div>
           <div className="flex flex-col items-center">
             <Code size={32} className="mb-4" />
-            <span className="text-sm font-medium">UI/UX Design</span>
+            <span className="text-sm font-medium">HCI & UI/UX Design</span>
           </div>
           <div className="flex flex-col items-center">
             <Globe size={32} className="mb-4" />
-            <span className="text-sm font-medium">Problem Solving</span>
+            <span className="text-sm font-medium">Database & Software Eng</span>
           </div>
         </motion.div>
       </div>

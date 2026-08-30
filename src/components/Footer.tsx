@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Twitter } from "lucide-react";
+import { Github, Mail } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -9,7 +9,7 @@ const Footer = () => {
             REDOFF<span className="text-blue-500">.DEV</span>
           </div>
           <p className="text-zinc-500 text-sm max-w-xs">
-            © 2024 Redoff Oppong Agyemang. Aspiring Software Engineer building solutions for Ghana.
+            © {new Date().getFullYear()} Redoff Oppong Agyemang. Founder & CEO of CYYBRID Technology.
           </p>
         </div>
 
@@ -17,16 +17,23 @@ const Footer = () => {
           <div className="flex flex-col gap-2">
             <span className="text-xs font-bold uppercase tracking-widest text-zinc-500">Navigation</span>
             <a href="#about" className="text-sm hover:text-blue-500 transition-colors">About</a>
+            <a href="#skills" className="text-sm hover:text-blue-500 transition-colors">Skills</a>
             <a href="#projects" className="text-sm hover:text-blue-500 transition-colors">Projects</a>
+            <a href="#resume" className="text-sm hover:text-blue-500 transition-colors">Resume</a>
             <a href="#contact" className="text-sm hover:text-blue-500 transition-colors">Contact</a>
           </div>
           <div className="flex flex-col gap-2">
             <span className="text-xs font-bold uppercase tracking-widest text-zinc-500">Connect</span>
             <div className="flex items-center gap-4 mt-1">
-              <Twitter size={18} className="text-zinc-600 hover:text-white cursor-pointer transition-colors" />
-              <Linkedin size={18} className="text-zinc-600 hover:text-white cursor-pointer transition-colors" />
-              <Github size={18} className="text-zinc-600 hover:text-white cursor-pointer transition-colors" />
-              <Mail size={18} className="text-zinc-600 hover:text-white cursor-pointer transition-colors" />
+              <a href="https://github.com/redoff" target="_blank" rel="noopener noreferrer">
+                <Github size={18} className="text-zinc-400 hover:text-white transition-colors" />
+              </a>
+              <a href="mailto:cyybridtechnnology@gmail.com">
+                <Mail size={18} className="text-zinc-400 hover:text-white transition-colors" />
+              </a>
+              <a href="https://myunihive.com" target="_blank" rel="noopener noreferrer" className="text-xs text-blue-400 font-semibold hover:underline">
+                UniHive
+              </a>
             </div>
           </div>
         </div>
