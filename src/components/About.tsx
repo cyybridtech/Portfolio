@@ -46,8 +46,11 @@ const About = () => {
           <div className="aspect-square rounded-3xl overflow-hidden bg-white/5 border border-white/10 p-2">
             <div className="w-full h-full rounded-2xl bg-gradient-to-br from-blue-600/20 to-purple-600/20 flex items-center justify-center">
               <div className="text-center p-8">
-                <p className="text-2xl font-serif italic text-white/80">
-                  &quot;The best software solves a problem you didn&apos;t even know you had, in a way that feels like it was always there.&quot;
+                <p className="text-2xl font-serif italic text-white/90 mb-3">
+                  &quot;PONTEM AD FUTURA — Building Bridges to the Future.&quot;
+                </p>
+                <p className="text-xs font-semibold tracking-widest uppercase text-blue-400">
+                  CYYBRID Technology Motto
                 </p>
               </div>
             </div>

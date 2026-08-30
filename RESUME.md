@@ -1,5 +1,6 @@
 # REDOFF OPPONG AGYEMANG
 **Founder & CEO at CYYBRID Technology**
+*Motto: PONTEM AD FUTURA — Building Bridges to the Future*
 📍 Ghana | 📞 0533143634
 ✉️ cyybridtechnnology@gmail.com
 🔗 [Portfolio: cyybrid.dev](https://cyybrid.dev) | 🐙 [GitHub: github.com/cyybridtech](https://github.com/cyybridtech) | 🌐 [UniHive: myunihive.com](https://myunihive.com)

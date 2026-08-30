@@ -14,14 +14,17 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          <span className="px-4 py-2 rounded-full bg-white/5 border border-white/10 text-xs font-semibold tracking-widest uppercase mb-8 inline-block text-blue-400">
+          <span className="px-4 py-2 rounded-full bg-white/5 border border-white/10 text-xs font-semibold tracking-widest uppercase mb-6 inline-block text-blue-400">
             IT EDUCATION STUDENT & FOUNDER AT CYYBRID TECHNOLOGY
           </span>
+          <p className="text-xs md:text-sm font-bold tracking-[0.25em] text-blue-400/90 uppercase mb-4">
+            PONTEM AD FUTURA &bull; BUILDING BRIDGES TO THE FUTURE
+          </p>
           <h1 className="text-5xl md:text-8xl font-bold tracking-tight mb-8 leading-tight">
-            Building the <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-white to-white/50">digital future</span> of Africa.
+            Building <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-white to-purple-400">bridges to the future</span> for the world.
           </h1>
-          <p className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto mb-10">
-            I am <span className="text-white font-semibold">Redoff Oppong Agyemang</span>. Founder & CEO of <span className="text-blue-400 font-semibold">CYYBRID Technology</span> (Est. 2025), creator of <a href="https://myunihive.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline font-semibold">UniHive</a>, and an IT Education student at USTED.
+          <p className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto mb-10 leading-relaxed">
+            I am <span className="text-white font-semibold">Redoff Oppong Agyemang</span>. Founder & CEO of <span className="text-blue-400 font-semibold">CYYBRID Technology</span> (Est. 2025), creator of <a href="https://myunihive.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline font-semibold">UniHive</a>, and an IT Education student at USTED. Driven by a global vision to engineer scalable software solutions for users worldwide.
           </p>
         </motion.div>
 
