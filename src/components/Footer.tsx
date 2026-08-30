@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8">
         <div>
           <div className="text-xl font-bold tracking-tighter mb-2">
-            REDOFF<span className="text-blue-500">.DEV</span>
+            CYYBRID<span className="text-blue-500">.DEV</span>
           </div>
           <p className="text-zinc-500 text-sm max-w-xs">
             © {new Date().getFullYear()} Redoff Oppong Agyemang. Founder & CEO of CYYBRID Technology.

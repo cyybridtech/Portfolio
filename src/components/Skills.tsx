@@ -41,7 +41,7 @@ const Skills = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">Technical Skills & Expertise</h2>
           <p className="text-zinc-400 max-w-2xl mx-auto">
-            Core competencies cultivated through Information Technology Education at AAMUSTED and production engineering at CYYBRID Technology.
+            Core competencies cultivated through Information Technology Education at USTED and production engineering at CYYBRID Technology.
           </p>
         </div>
 

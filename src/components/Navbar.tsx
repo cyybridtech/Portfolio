@@ -36,7 +36,7 @@ const Navbar = () => {
           animate={{ opacity: 1, x: 0 }}
           className="text-2xl font-bold tracking-tighter text-white"
         >
-          REDOFF<span className="text-blue-500">.DEV</span>
+          CYYBRID<span className="text-blue-500">.DEV</span>
         </motion.div>
 
         {/* Desktop Menu */}

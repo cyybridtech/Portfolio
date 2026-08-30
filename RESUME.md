@@ -2,12 +2,12 @@
 **Founder & CEO at CYYBRID Technology**
 📍 Ghana | 📞 0533143634
 ✉️ cyybridtechnnology@gmail.com
-🔗 [Portfolio: redoff.dev] | 🐙 [GitHub: github.com/cyybridtech](https://github.com/cyybridtech) | 🌐 [UniHive: myunihive.com](https://myunihive.com)
+🔗 [Portfolio: cyybrid.dev](https://cyybrid.dev) | 🐙 [GitHub: github.com/cyybridtech](https://github.com/cyybridtech) | 🌐 [UniHive: myunihive.com](https://myunihive.com)
 
 ---
 
 ### PROFESSIONAL SUMMARY
-Analytical and driven **Information Technology Education Student** at the **University of Skills Training and Entrepreneurial Development (AAMUSTED)** (2024 – 2027). Founder and CEO at **CYYBRID Technology** (Est. 2025). Proven track record of architecting and deploying production web and mobile applications including **UniHive** (hostel booking platform), a Fintech application (HCI & Mobile App project), advanced Point-of-Sale (POS) systems, and apparel e-commerce platforms.
+Analytical and driven **Information Technology Education Student** at the **University of Skills Training and Entrepreneurial Development (USTED)** (2024 – 2027). Founder and CEO at **CYYBRID Technology** (Est. 2025). Proven track record of architecting and deploying production web and mobile applications including **UniHive** (hostel booking platform), a Fintech application (HCI & Mobile App project), advanced Point-of-Sale (POS) systems, and apparel e-commerce platforms.
 
 ---
 
@@ -44,7 +44,7 @@ Analytical and driven **Information Technology Education Student** at the **Univ
 
 ### EDUCATION
 **Bachelor of Science in Information Technology Education**
-*University of Skills Training and Entrepreneurial Development (AAMUSTED)*, Ghana
+*University of Skills Training and Entrepreneurial Development (USTED)*, Ghana
 *2024 – 2027*
 *   **Relevant Coursework:** Programming, Database Management, Web Development, Human-Computer Interaction (HCI), Mobile Application Development, Software Engineering, Systems Analysis & Design.
 

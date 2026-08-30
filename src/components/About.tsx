@@ -13,7 +13,7 @@ const About = () => {
           <h2 className="text-4xl font-bold mb-8">About Me</h2>
           <div className="space-y-6 text-zinc-400 leading-relaxed text-lg">
             <p>
-              I am a Bachelor of Science in Information Technology Education student at the <span className="text-white font-semibold">University of Skills Training and Entrepreneurial Development (AAMUSTED)</span> (2024 – 2027). As the Founder & CEO of <span className="text-blue-400 font-semibold">CYYBRID Technology</span> (Est. 2025), I build software that bridges complex systems architecture with intuitive user design.
+              I am a Bachelor of Science in Information Technology Education student at the <span className="text-white font-semibold">University of Skills Training and Entrepreneurial Development (USTED)</span> (2024 – 2027). As the Founder & CEO of <span className="text-blue-400 font-semibold">CYYBRID Technology</span> (Est. 2025), I build software that bridges complex systems architecture with intuitive user design.
             </p>
             <p>
               From creating <a href="https://myunihive.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline font-semibold">UniHive</a> (launched in 2026 as a dedicated hostel booking platform for university students across Ghana) to developing a Fintech application (HCI & Mobile App project in July 2026), advanced retail POS systems, and apparel e-commerce platforms, my focus is delivering high-impact software solutions.

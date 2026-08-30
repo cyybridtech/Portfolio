@@ -1,9 +1,10 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import UniHiveSpotlight from "@/components/UniHiveSpotlight";
 import About from "@/components/About";
 import Skills from "@/components/Skills";
-import Projects from "@/components/Projects";
 import Resume from "@/components/Resume";
+import Projects from "@/components/Projects";
 import Team from "@/components/Team";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
@@ -13,6 +14,7 @@ function App() {
     <div className="min-h-screen bg-[#0a0a0a]">
       <Navbar />
       <Hero />
+      <UniHiveSpotlight />
       <About />
       <Skills />
       <Resume />

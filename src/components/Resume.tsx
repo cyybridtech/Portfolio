@@ -4,7 +4,7 @@ import { Download, FileText } from "lucide-react";
 const Resume = () => {
   const education = [
     {
-      school: "University of Skills Training and Entrepreneurial Development (AAMUSTED)",
+      school: "University of Skills Training and Entrepreneurial Development (USTED)",
       degree: "Bachelor of Science in Information Technology Education",
       period: "2024 - 2027",
       details: "Focusing on Programming, Database Management, Web Development, HCI, Software Engineering, and Systems Analysis."
@@ -26,7 +26,7 @@ const Resume = () => {
     },
     {
       title: "Developer – Fintech Application Project",
-      company: "AAMUSTED Coursework",
+      company: "USTED Coursework",
       period: "July 2026",
       details: "Designed and built an intuitive financial application applying HCI design principles and mobile architecture."
     }
