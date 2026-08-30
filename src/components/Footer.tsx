@@ -25,7 +25,7 @@ const Footer = () => {
           <div className="flex flex-col gap-2">
             <span className="text-xs font-bold uppercase tracking-widest text-zinc-500">Connect</span>
             <div className="flex items-center gap-4 mt-1">
-              <a href="https://github.com/redoff" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/cyybridtech" target="_blank" rel="noopener noreferrer">
                 <Github size={18} className="text-zinc-400 hover:text-white transition-colors" />
               </a>
               <a href="mailto:cyybridtechnnology@gmail.com">

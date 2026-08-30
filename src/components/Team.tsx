@@ -50,7 +50,7 @@ const Team = () => {
               </p>
               <div className="flex items-center justify-center gap-4">
                 <a
-                  href="https://github.com/redoff"
+                  href="https://github.com/cyybridtech"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-white/5 border border-white/10 hover:bg-blue-600 transition-colors"

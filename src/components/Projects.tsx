@@ -8,28 +8,28 @@ const projects = [
     tags: ["React", "TypeScript", "Tailwind CSS", "Node.js"],
     image: "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&q=80&w=800",
     link: "https://myunihive.com",
-    github: "https://github.com/redoff",
+    github: "https://github.com/cyybridtech",
   },
   {
     title: "Fintech Application Project",
     description: "An intuitive mobile and web financial application developed for the HCI and Mobile Application courses (July 2026), focusing on user-centered design and secure transactions.",
     tags: ["HCI", "Mobile App", "React Native / Web", "Fintech"],
     image: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&q=80&w=800",
-    github: "https://github.com/redoff",
+    github: "https://github.com/cyybridtech",
   },
   {
     title: "Advanced Retail POS System",
     description: "High-performance Point of Sale system engineered for retail merchants, providing real-time inventory control, sales analytics, and receipt generation.",
     tags: ["React", "TypeScript", "Node.js", "SQL"],
     image: "https://images.unsplash.com/photo-1556742049-0a670fc8077a?auto=format&fit=crop&q=80&w=800",
-    github: "https://github.com/redoff",
+    github: "https://github.com/cyybridtech",
   },
   {
     title: "Apparel E-Commerce Platform",
     description: "Modern fashion apparel e-commerce web application featuring dynamic catalog filtering, cart management, and responsive customer checkout flow.",
     tags: ["React", "Next.js", "Tailwind CSS", "REST API"],
     image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800",
-    github: "https://github.com/redoff",
+    github: "https://github.com/cyybridtech",
   },
 ];
 
@@ -45,7 +45,7 @@ const Projects = () => {
             </p>
           </div>
           <a
-            href="https://github.com/redoff"
+            href="https://github.com/cyybridtech"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-500 font-semibold flex items-center hover:underline"

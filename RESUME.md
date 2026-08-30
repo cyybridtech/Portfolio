@@ -2,7 +2,7 @@
 **Founder & CEO at CYYBRID Technology**
 📍 Ghana | 📞 0533143634
 ✉️ cyybridtechnnology@gmail.com
-🔗 [Portfolio: redoff.dev] | 🐙 [GitHub: github.com/redoff] | 🌐 [UniHive: myunihive.com](https://myunihive.com)
+🔗 [Portfolio: redoff.dev] | 🐙 [GitHub: github.com/cyybridtech](https://github.com/cyybridtech) | 🌐 [UniHive: myunihive.com](https://myunihive.com)
 
 ---
 
