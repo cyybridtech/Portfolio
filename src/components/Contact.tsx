@@ -79,7 +79,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-zinc-500 font-medium">Location</p>
-                  <p className="text-lg font-semibold text-white">Ghana (USTED)</p>
+                  <p className="text-lg font-semibold text-white">Ghana (KUMASI)</p>
                 </div>
               </div>
             </div>
