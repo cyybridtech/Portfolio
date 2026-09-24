@@ -6,7 +6,7 @@ const teamMembers = [
     name: "Redoff Oppong Agyemang",
     role: "Founder & CEO, CYYBRID Technology",
     bio: "Driving the technology vision, software architecture, full-stack application development, and product strategy at CYYBRID Technology.",
-    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+    image: "https://res.cloudinary.com/dz4m5s7p6/image/upload/v1789562335/unihive_uploads/dnpsnhgarftdzuusa7q1.png",
   },
 ];
 
