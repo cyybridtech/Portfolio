@@ -24,7 +24,7 @@ const Hero = () => {
             Building <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-white to-purple-400">bridges to the future</span> for the world.
           </h1>
           <p className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto mb-10 leading-relaxed">
-            I am <span className="text-white font-semibold">Redoff Oppong Agyemang</span>. Founder & CEO of <span className="text-blue-400 font-semibold">CYYBRID Technology</span> (Est. 2025), creator of <a href="https://myunihive.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline font-semibold">UniHive</a>, and an IT Education student at USTED. Driven by a global vision to engineer scalable software solutions for users worldwide.
+            I am <span className="text-white font-semibold">Redoff Oppong Agyemang</span>. Founder & CEO of <span className="text-blue-400 font-semibold">CYYBRID Technology</span> (Est. 2025), creator of <a href="https://myunihive.com" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline font-semibold">UniHive</a>, a software developer. Driven by a global vision to engineer scalable software solutions for users worldwide.
           </p>
         </motion.div>
 
